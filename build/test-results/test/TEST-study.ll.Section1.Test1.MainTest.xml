@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="study.ll.Section1.Test1.MainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-14T07:53:52" hostname="DESKTOP-BCO5GBM" time="0.046">
-  <properties/>
-  <testcase name="&quot;KKHSSSSSSSE&quot; 입력시 &quot;K2HS7E&quot; 출력" classname="study.ll.Section1.Test1.MainTest" time="0.044"/>
-  <testcase name="&quot;AAABCCCDD&quot; 입력시 &quot;A3BC3D2&quot; 출력" classname="study.ll.Section1.Test1.MainTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
